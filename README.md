@@ -1,4 +1,4 @@
-# Programming Task
+# Petshop
 
 Full-stack application, online e-commerce service that enables users to buy pets. 
 Projects also has back-end side pagination, filter, sort and search features. 
@@ -22,7 +22,7 @@ Install [node.js](https://nodejs.org/en/), [npm](https://www.npmjs.com/) and [Po
 #### Clone repository:
 
 ````
-git clone https://github.com/IselDrew/https://github.com/IselDrew/Payment-page.git
+git clone https://github.com/IselDrew/Petshop.git
 ````
 
 #### Install dependencies:
